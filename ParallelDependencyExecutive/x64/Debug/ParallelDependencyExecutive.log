@@ -1,0 +1,18 @@
+﻿  ParallelDependencyExecutive.cpp
+  Utilities.cpp
+  TypeAnalysis.cpp
+  Tokenizer.cpp
+  ThreadPool.cpp
+  Task.cpp
+  SemiExp.cpp
+  ScopeStack.cpp
+  Parser.cpp
+  ConfigureParser.cpp
+  ActionsAndRules.cpp
+  ParallelDependencyAnalysis.cpp
+  FileSystem.cpp
+  FileMgr.cpp
+  ASTree.cpp
+  ASTNode.cpp
+  Generating Code...
+  ParallelDependencyExecutive.vcxproj -> c:\Users\Deepika\Desktop\ParallelDependencyAnalyzer\x64\Debug\ParallelDependencyExecutive.exe

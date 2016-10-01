@@ -1,0 +1,14 @@
+﻿  ASTNode.cpp
+  ASTree.cpp
+  ActionsAndRules.cpp
+  ConfigureParser.cpp
+  Parser.cpp
+  ScopeStack.cpp
+  SemiExp.cpp
+  Tokenizer.cpp
+  Utilities.cpp
+  TypeTable.cpp
+  Generating code
+  All 1111 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  TypeAnalysis.vcxproj -> C:\Users\Deepika\Desktop\CodeParser\x64\Release\TypeAnalysis.exe
